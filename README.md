@@ -23,8 +23,8 @@ The repository includes solutions for various problems that involve reading user
 ### 5. `numbers.sh`
 - A script that continuously reads numbers from the user and indicates whether each number is positive, negative, or zero. The script terminates when the user inputs "quit".
 
-Key Learning Outcomes
-Understanding the use of basic shell commands and utilities.
-Mastery of control flow constructs such as loops and conditional statements in shell scripting.
-Effective use of command-line arguments in scripts.
-Handling and processing file input/output operations.
+## Key Learning Outcomes
+- Understanding the use of basic shell commands and utilities.
+- Mastery of control flow constructs such as loops and conditional statements in shell scripting.
+- Effective use of command-line arguments in scripts.
+- Handling and processing file input/output operations.
